@@ -1,19 +1,23 @@
-Student Data Manager CLI
+# Student Data Manager CLI
 
-Features
-- Add Student
-- View Students
-- Search Student
-- Update Student
-- Delete Student
+A Python command-line application to manage student records.
+
+## Features
+
+- Add student
+- View students
+- Search student
+- Update student
+- Delete student
 - Export CSV to JSON
 
-Technologies
+## Technologies
+
 - Python
 - CSV
 - JSON
-- Exception Handling
+- File handling
+- Exception handling
 
-Run
+## Project Structure
 
-python main.py
