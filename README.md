@@ -19,5 +19,4 @@ A Python command-line application to manage student records.
 - File handling
 - Exception handling
 
-## Project Structure
 
